@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"[Anti Creeper Explosion]\u5df2\u542f\u7528","bold":true,"color":"yellow"},{"text":"\n"},{"text":"\u529f\u80fd\uff1a\u666e\u901a\u82e6\u529b\u6015\u9632\u7206\uff0c\u9ad8\u538b\u82e6\u529b\u6015\u524a\u5f31\u7206\u70b8","color":"yellow"}]
